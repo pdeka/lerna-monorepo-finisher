@@ -1,7 +1,7 @@
 {
   "name": "@pdeka/shared-ui-test",
   "description": "Lerna monorepo finisher",
-  "version": "1.0.2",
+  "version": "1.0.3-alpha.0",
   "author": "Andrico Karoulla <karoulla.andrico@gmail.com>",
   "dependencies": {
     "gatsby": "^1.9.247",

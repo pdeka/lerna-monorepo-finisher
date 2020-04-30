@@ -1,21 +1,21 @@
 {
   "name": "@pdeka/gatsby-theme-shop",
   "description": "Lerna monorepo finisher",
-  "version": "1.0.2",
+  "version": "1.0.3-alpha.0",
   "author": "Andrico Karoulla <karoulla.andrico@gmail.com>",
   "dependencies": {
-    "@pdeka/shared-ui-test": "^1.0.1",
+    "@pdeka/shared-ui-test": "^1.0.3-alpha.0",
     "dotenv": "^6.0.0",
     "gatsby": "^1.9.247",
     "gatsby-link": "^1.6.40",
     "gatsby-plugin-react-helmet": "^2.0.10",
     "gatsby-plugin-react-next": "^1.0.11",
+    "gatsby-react-router-scroll": "^1.0.18",
     "gatsby-source-filesystem": "^1.5.39",
     "gatsby-transformer-json": "^1.0.20",
-    "gatsby-react-router-scroll": "^1.0.18",
     "react": "^16.4.2",
     "react-helmet": "^5.2.0",
-    "serve":"^10.0.0",
+    "serve": "^10.0.0",
     "styled-components": "^3.3.3"
   },
   "keywords": [
